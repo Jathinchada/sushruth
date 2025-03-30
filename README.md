@@ -3,4 +3,4 @@
 1st git repository
 
 
-Author - Sushruth Chada
+Author - Sushruth Chada(goat)
